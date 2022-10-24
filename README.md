@@ -22,6 +22,6 @@ N for Notes is an app which saves your notes in your account. In this you can ma
 <img src="home-content.jpg" width="500px" height="500px"/>
 
 ---Update Screen or Delete Screen---
-<img src="update.jpg" width="500px" height="500px"/>
+<img src="Update.jpg" width="500px" height="500px"/>
 
 
