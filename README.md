@@ -10,3 +10,15 @@ N for Notes is an app which saves your notes in your account. In this you can ma
 
 ---Splash Screen---
 <img src="splash.jpg" width="500px" height="500px"/>
+
+---Home Screen---
+<img src="home.jpg" width="500px" height="500px"/>
+
+
+---Content Screen---
+<img src="content.jpg" width="500px" height="500px"/>
+
+---Home Content Screen---
+<img src="home-content.jpg" width="500px" height="500px"/>
+
+
